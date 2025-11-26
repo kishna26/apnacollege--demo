@@ -1,3 +1,4 @@
 # apnacollege--demo
-This is my first respository
-author-khushi paliwal
+This is my first respository.
+<br>
+Author-khushi paliwal
